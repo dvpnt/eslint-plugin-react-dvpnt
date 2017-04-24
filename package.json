@@ -1,0 +1,44 @@
+{
+  "name": "eslint-plugin-react-dvpnt",
+  "version": "1.0.0",
+  "description": "eslint ract plugin for dvpnt projects",
+  "main": "index.js",
+  "author": {
+    "name": "psixdev",
+    "email": "psix.dev@yandex.ru"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvpnt/eslint-plugin-react-dvpnt.git"
+  },
+  "keywords": [
+    "eslint",
+    "plugin",
+    "dvpnt"
+  ],
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "devDependencies": {
+    "eslint": "3.5.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/dvpnt/eslint-plugin-react-dvpnt/issues"
+  },
+  "homepage": "https://github.com/dvpnt/eslint-plugin-react-dvpnt#readme",
+  "directories": {},
+  "maintainers": [
+    {
+      "name": "dvpnt",
+      "email": "contact@dvpnt.com"
+    },
+    {
+      "name": "psixdev",
+      "email": "psix.dev@yandex.ru"
+    }
+  ]
+}
