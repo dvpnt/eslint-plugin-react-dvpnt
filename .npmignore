@@ -1,0 +1,6 @@
+*.log
+.npmignore
+.travis.yml
+*.log
+.npmignore
+.travis.yml
