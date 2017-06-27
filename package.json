@@ -21,7 +21,8 @@
     "lint": "eslint ./"
   },
   "devDependencies": {
-    "eslint": "3.19.0"
+    "eslint": "3.19.0",
+    "eslint-config-dvpnt": "1.5.1"
   },
   "peerDependencies": {
     "eslint": ">=3.19.0"
