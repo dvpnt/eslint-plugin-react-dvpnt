@@ -1,4 +1,5 @@
 # eslint-plugin-react-dvpnt
+[![Build Status](https://api.travis-ci.org/dvpnt/eslint-plugin-react-dvpnt.svg)](https://travis-ci.org/dvpnt/eslint-plugin-react-dvpnt)
 [![NPM Version](https://img.shields.io/npm/v/eslint-plugin-react-dvpnt.svg)](https://www.npmjs.com/package/eslint-plugin-react-dvpnt)
 
 dvpnt react eslint plugin
