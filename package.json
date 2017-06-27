@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react-dvpnt",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "eslint ract plugin for dvpnt projects",
   "main": "index.js",
   "author": {
